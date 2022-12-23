@@ -23,7 +23,7 @@ Désolé pour la colle chaude, mais... ça marche.
 
 Schémas :
 
-<img src="https://srv.fbr.ninja/index.php/s/8cxPB3EMyzqoZ5R/preview"  width="30%" height="15%"> <img src="https://srv.fbr.ninja/index.php/s/RmaWsQdqttjj26M/preview"  width="30%" height="15%"> 
+<img src="https://srv.fbr.ninja/index.php/s/P3365ieYoo4LRiH/preview"  width="30%" height="15%"> <img src="https://srv.fbr.ninja/index.php/s/5raf2N2GmDrsXnN/preview"  width="30%" height="15%"> 
 
 ## Code
 Ajouter la plateforme Attiny dans votre IDE Arduino :
