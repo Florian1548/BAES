@@ -29,6 +29,7 @@ Schémas :
 
 
 ## Impression 3D
+Réglages:
 
 Boite: 15% infill
 
