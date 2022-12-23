@@ -25,7 +25,18 @@ Schémas :
 
 <img src="https://srv.fbr.ninja/index.php/s/8cxPB3EMyzqoZ5R/preview"  width="30%" height="15%"> <img src="https://srv.fbr.ninja/index.php/s/RmaWsQdqttjj26M/preview"  width="30%" height="15%"> 
 
+## Code
+Ajouter la plateforme Attiny dans votre IDE Arduino :
 
+🖥️ [Tutoriel](https://go.fbr.ninja/progattiny)
+
+▶️ Sélectionnez dans Tool > Boards > Attiny > Attiny25/45/85
+
+▶️ Clock > Internal 1Mhz
+
+▶️ Processor > Attiny85
+
+💾 [Le code](https://github.com/Florian1548/BAES/blob/main/Code/BAES/BAES.ino)
 
 
 ## Impression 3D
