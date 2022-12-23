@@ -1,3 +1,6 @@
+// Copyright (c) 2022 Florian_RG
+// This code is licensed under MIT license (see LICENSE file for details)
+
 int ledStatus = 0;
 int ledFlash = 1;
 int sonde = 3;
