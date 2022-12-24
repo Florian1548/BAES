@@ -12,7 +12,7 @@ Il s'agit d'un BAES (Bloc Autonome d'Éclairage de Sécurité) type "Anti-paniqu
 
 Système basé sur un accu 18650 et un module de charge TC4056A. On retrouve également en entrée un module step up/down XL6019 pour convertir le 18v DC d'un transformateur à 5V DC stabilisé.
 
-<img src="https://srv.fbr.ninja/index.php/s/oPbzgWSaoQbBTHt/preview"  width="30%" height="15%">
+<img src="https://srv.fbr.ninja/index.php/s/oPbzgWSaoQbBTHt/preview"  width="30%" height="15%"> <img src="https://srv.fbr.ninja/index.php/s/pwqzCcM2iJjj9Jf/preview"  width="30%" height="15%">
 
 Désolé pour la colle chaude, mais... ça marche.
 
