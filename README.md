@@ -10,7 +10,7 @@ Il s'agit d'un BAES (Bloc Autonome d'Éclairage de Sécurité) type "Anti-paniqu
 
 
 
-## Electronique
+## <img src="https://srv.fbr.ninja/index.php/s/rXEXdGnkEeQiBBR/preview"  width="5%" height="5%"> Electronique
 
 Système basé sur un accu 18650 et un module de charge TC4056A. On retrouve également en entrée un module step up/down XL6019 pour convertir le 18v DC d'un transformateur à 5V DC stabilisé.
 
@@ -25,7 +25,7 @@ Schémas :
 
 <img src="https://srv.fbr.ninja/index.php/s/P3365ieYoo4LRiH/preview"  width="30%" height="15%"> <img src="https://srv.fbr.ninja/index.php/s/5raf2N2GmDrsXnN/preview"  width="30%" height="15%"> 
 
-## Code
+## <img src="https://srv.fbr.ninja/index.php/s/gdH2jfg5edNjQZP/preview"  width="5%" height="5%"> Code
 Ajouter la plateforme Attiny dans votre IDE Arduino :
 
 🖥️ [Tutoriel](https://go.fbr.ninja/progattiny)
@@ -39,7 +39,10 @@ Ajouter la plateforme Attiny dans votre IDE Arduino :
 💾 [Le code](https://github.com/Florian1548/BAES/blob/main/Code/BAES/BAES.ino)
 
 
-## Impression 3D
+## <img src="https://srv.fbr.ninja/index.php/s/BGzJTQcok5CJMzX/preview"  width="5%" height="5%"> Impression 3D
+
+[Fichiers STL](https://github.com/Florian1548/BAES/tree/main/STL)
+
 Réglages:
 
 Boite: 15% infill
