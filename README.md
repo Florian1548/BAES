@@ -1,5 +1,3 @@
-# Ecriture en cours...
-
 # DISCLAIMER ⚠️ 
 Ceci n'est pas un dispositif de sécurité normé. Il n'as passé aucun test sur le long terme concernant la sécurité de sa batterie ou sa fiabilité, ni sa resistance et sa réaction au feu.
 
